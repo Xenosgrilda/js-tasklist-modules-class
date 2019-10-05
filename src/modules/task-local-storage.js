@@ -1,3 +1,5 @@
+"use strict";
+
 const LOCAL_STORAGE_TASK = 'tasks';
 
 export default class TaskLocalStorage {
