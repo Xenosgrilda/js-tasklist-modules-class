@@ -2,7 +2,7 @@
 
 Simple task list project using:
 
-You can check it out here [link](https://xenosgrilda.github.io/js-tasklist-modules-class/)
+You can check it out here [link](https://du-almeidalima.github.io/js-tasklist-modules-class/)
 * Native JavaScript modules:
 
 ```html
